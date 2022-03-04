@@ -1,16 +1,14 @@
-# guess_the_number
+# Guess The Number
 
-Guess the number game by flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About The Project
 
-A few resources to get you started if this is your first Flutter project:
+It is a application that a number guessing between 1 and 100. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://user-images.githubusercontent.com/79968953/156805132-1a1b6f55-8b14-4252-931c-de131a7e2fd5.png)
+![image](https://user-images.githubusercontent.com/79968953/156805557-efe7d317-4060-4c7e-acfb-13e6c5dd88d2.png)
+![image](https://user-images.githubusercontent.com/79968953/156805714-fa7b812d-b456-4e3b-8dfd-2270a4a873f3.png)
+![image](https://user-images.githubusercontent.com/79968953/156805855-9eebf343-c1c0-4b6c-b38a-5f2a8805b3f6.png)
