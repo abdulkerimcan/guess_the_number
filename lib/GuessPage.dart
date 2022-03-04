@@ -34,7 +34,7 @@ class _GuessPageState extends State<GuessPage> {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
             Text(
-              "Kalan Hak: $heart ",
+              "Hearts : $heart ",
               style: TextStyle(
                   fontSize: 25,
                   color: Colors.blueAccent,
